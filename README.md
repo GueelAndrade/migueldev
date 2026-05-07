@@ -1,3 +1,4 @@
+
 <h1 align="center">Olá 👋 Eu sou Miguel</h1>
 
 <p align="center">
@@ -25,14 +26,14 @@ Agora que consegui meu notebook, comecei minha jornada na programação para con
 - CSS
 - JavaScript
 - Lógica de Programação
-- Desenvolvimento Web
 
 ---
 
 ## 🎯 Objetivos
 
 - Construir uma base forte em programação
-- Criar aplicativos e jogos no futuro
+- Me tornar um Desenvolvedor de Software no futuro
+- Criar aplicativos e jogos
 - Conseguir experiência na área de tecnologia
 - Evoluir constantemente como desenvolvedor
 
@@ -104,7 +105,7 @@ Projeto simples mostrando data e hora em tempo real.
 ## 🌱 Atualmente
 
 - Aprendendo lógica de programação
-- Estudando desenvolvimento web
+- Fazendo exercícios em Python para praticar
 - Criando projetos simples para ganhar experiência
 - Melhorando minha disciplina e constância nos estudos
 
