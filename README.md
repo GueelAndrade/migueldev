@@ -14,7 +14,7 @@
 Desde cedo sempre gostei muito de tecnologia.  
 Cresci assistindo canais de tecnologia, pesquisando sobre computadores, celulares e aprendendo sozinho pela internet.
 
-Antes da programação, comecei mexendo com celulares e aprendendo coisas básicas de manutenção.  
+Antes da programação, comecei mexendo com celulares e aprendendo coisas básicas.  
 Agora que consegui meu notebook, comecei minha jornada na programação para construir uma base sólida e evoluir na área de tecnologia.
 
 ---
