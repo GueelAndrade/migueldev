@@ -1,6 +1,3 @@
-# migueldev
-📚 Estudos, projetos e evolução na programação
-
 <h1 align="center">Olá 👋 Eu sou Miguel</h1>
 
 <p align="center">
