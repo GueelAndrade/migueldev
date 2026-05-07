@@ -18,7 +18,7 @@
 
 - 🎯 Objetivos:
   - Construir uma base sólida em programação
-  - Criar sites, aplicativos e jogos no futuro
+  - Criar aplicativos e jogos no futuro
   - Evoluir constantemente como desenvolvedor
 
 - 🧠 Aprendendo no meu ritmo, com foco em prática e consistência
